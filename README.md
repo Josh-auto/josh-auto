@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omofoma  
+# 👋 Hi, I'm Josh  
 
 🚀 **Python Automation Developer** | Helping businesses save time through smart automation  
 
@@ -22,7 +22,7 @@ I specialize in building **Python-powered automation tools** that make work fast
 - **APIs & Integrations:** REST APIs, JSON  
 - **Other Tools:** Git, GitHub Actions, Jupyter Notebooks  
 
----
+-
 
 ## 📂 Featured Projects  
 🔹 [**Excel Report Automator**](#) – Generates and emails Excel reports in one click  
